@@ -1,8 +1,8 @@
 ---
-layout: about
-title: about
+layout: home
+title: home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Institute for Dynamic Systems and Control</a>, ETH Zürich, Switzerland
 
 profile:
   align: right
