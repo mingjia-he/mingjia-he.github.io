@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Mingjia.github.io/sitemap.xml
+Sitemap: https://mingjia000.github.io/sitemap.xml
