@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [Institute for Dynamic Systems and Control] (https://idsc.ethz.ch/), ETH Zürich, Switzerland 
+subtitle: [Institute for Dynamic Systems and Control](https://idsc.ethz.ch/), ETH Zürich, Switzerland 
 #<a href='#'>[Institute for Dynamic Systems and Control] (https://idsc.ethz.ch/)</a>, ETH Zürich, Switzerland
 
 
