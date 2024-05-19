@@ -1,6 +1,6 @@
 ---
 layout: page
-title: InsideOut
+title: InsideOut Autonomy
 description: Autonomy-enabling Infrastructure for future mobility systems
 img: assets/img/project/insideout.png
 importance: 2
