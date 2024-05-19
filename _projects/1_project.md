@@ -2,7 +2,7 @@
 layout: page
 title: InteractiveMobility
 description: Systemic view on the strategic interactions of future mobility offers
-img: assets/img/interactions.png
+img: assets/project/interactions.png
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning
@@ -17,7 +17,7 @@ Specifically, we will first provide a mathematical formulation of the problem, d
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/interactions.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/project/interactions.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

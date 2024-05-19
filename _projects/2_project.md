@@ -1,25 +1,16 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: InsideOut
+description: Autonomy-enabling Infrastructure for future mobility systems
+img: assets/project/insideout.jpg
 importance: 2
 category: work
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+In this project, we will investigate the rationale of autonomy-​enabling infrastructure and its effects on future mobility systems featuring Autonomous Mobility-​on-Demand (AMoD) systems, leveraging first order principles, modeling and analytical techniques, control schemes, and simulation frameworks for the coordinated operation of fleets of autonomous vehicles (AVs). Specifically, we will study the possibility of outsourcing part of the autonomy stack of AVs to the public infrastructure, providing a detailed study of costs, benefits, scalability, and trade-​offs characterizing this approach. Furthermore, we will extend state-​of-the-art simulation frameworks for AMoD and mobility systems to assess the effects of particular infrastructural changes, and will design sound case studies for Swiss and international realities (both urban and rural).
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The project promises to provide stakeholders of the mobility ecosystem, including governments, municipalities, mobility providers, and car-​makers, with exhaustive answers about rational trajectories for future investments and policies. Concretely, we will collaborate with SBB AG and Siemens Mobility AG. While the former partner will support the project with critical expertise in mobility planning, the latter will assist the project with knowledge about costs, procedures and trade-​offs related to the mobility infrastructure.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
