@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: home
+title: home
 permalink: /
 subtitle: <a href='https://idsc.ethz.ch/'> Institute for Dynamic Systems and Control</a>, ETH Zürich, Switzerland 
 #<a href='#'>[Institute for Dynamic Systems and Control] (https://idsc.ethz.ch/)</a>, ETH Zürich, Switzerland
@@ -8,7 +8,7 @@ subtitle: <a href='https://idsc.ethz.ch/'> Institute for Dynamic Systems and Con
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: self.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
@@ -21,4 +21,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Mingjia He is a doctoral student at the Institute for Dynamic Systems and Control, ETH Zürich, Switzerland. Her research mainly focus on exploring the mobility systems using 
+Mingjia He is a doctoral student in the Frazzoli's Group in the IDSC, ETH Zurich. Her works at the interaction of transportation system and intelligent control. Her research mainly focus on exploring the mobility interactions leveraging optimization-based and learning-based models under a game theratical model. 
