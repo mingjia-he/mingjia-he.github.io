@@ -2,7 +2,7 @@
 layout: page
 title: InteractiveMobility
 description: Systemic view on the strategic interactions of future mobility offers
-img: assets/project/interactions.png
+img: assets/img/project/interactions.png
 importance: 1
 category: work
 ---
