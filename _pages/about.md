@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
 subtitle: <a href='https://idsc.ethz.ch/'> Institute for Dynamic Systems and Control</a>, ETH Zürich, Switzerland 
 #<a href='#'>[Institute for Dynamic Systems and Control] (https://idsc.ethz.ch/)</a>, ETH Zürich, Switzerland
@@ -25,4 +25,15 @@ Mingjia He is a doctoral student in Frazzoli's group at the Institute of Dynamic
 
 Before working at ETH, she obtained the masters' degree in Transport Planning in Delft University of Technology, Netherlands. During her studies, she collaborated closely with [Dr. Bilge Atasoy](https://sites.google.com/view/bilgeatasoy) and [Dr. Panchamy Krishnakumari](https://www.tudelft.nl/citg/over-faculteit/afdelingen/transport-planning/staff/persoonlijke-paginas/dr-ir-p-k-krishnakumari). She worked as a research assistant in  [Dr. Zhuge's group](http://www.lsgi.polyu.edu.hk/people/academic/tony-zhuge/index.asp) at The Hong Kong Polytechnic University for two years.
 
-Mingjia
+- **For Researchers:**
+  If you share similar research interests, it would be wonderful to connect and explore potential collaborations. 
+
+- **For Students:**
+  If you are seeking thesis opportunities in mobility systems, please feel free to reach out. We especially welcome students who are:
+  - Highly motivated and curious about mobility systems.
+  - Experienced in optimization and machine learning techniques.
+  - Skilled in traffic simulation, particularly those familiar with tools like MATSim.
+
+**Contact**
+Email: minghe@ethz.ch
+Feel free to connect for more information or to discuss potential research and thesis opportunities.
