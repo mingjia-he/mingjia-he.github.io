@@ -28,14 +28,14 @@ Mingjia He is a doctoral student in Frazzoli's group at the Institute of Dynamic
 
 
 - **For Researchers:**
-  If you share similar research interests, it would be wonderful to connect and explore potential collaborations :wink:. 
+  If you share similar research interests, it would be wonderful to connect😊. 
 
 - **For Students:**
-  If you are seeking thesis opportunities in mobility systems, please feel free to reach out :blush:. We are actively seeking students who are:
+  If you are seeking thesis opportunities, please feel free to reach out😊. 
+  We are actively seeking students who are:
   - Highly motivated and curious about mobility systems.
   - Eager to learn optimization and machine learning techniques.
   - Skilled in traffic simulation (familiar with tools like MATSim).
 
 - **Contact**
   - Email: minghe@ethz.ch
-  - Feel free to connect for more information or to discuss potential research and thesis opportunities.
