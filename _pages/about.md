@@ -1,6 +1,6 @@
 ---
-layout: About
-title: About
+layout: about
+title: about
 permalink: /
 subtitle: <a href='https://idsc.ethz.ch/'> Institute for Dynamic Systems and Control</a>, ETH Zürich, Switzerland 
 #<a href='#'>[Institute for Dynamic Systems and Control] (https://idsc.ethz.ch/)</a>, ETH Zürich, Switzerland
@@ -34,6 +34,6 @@ Before working at ETH, she obtained the masters' degree in Transport Planning in
   - Experienced in optimization and machine learning techniques.
   - Skilled in traffic simulation, particularly those familiar with tools like MATSim.
 
-**Contact**
+- **Contact**
 Email: minghe@ethz.ch
 Feel free to connect for more information or to discuss potential research and thesis opportunities.
