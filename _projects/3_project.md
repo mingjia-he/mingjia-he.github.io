@@ -6,7 +6,8 @@ img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
 category: work
-_projects/1_project.md
+giscus_comments: true
+related_publications: einstein1956investigations, einstein1950meaning
 ---
 
 Every project has a beautiful feature showcase page.

@@ -5,10 +5,7 @@ description: Systemic view on the strategic interactions of future mobility offe
 img: assets/project/interactions.png
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
 ---
-
-Mobility is typically self-​optimized for a particular region (e.g., urban areas, agglomerations, rural areas) to accommodate internal travel needs. However, as soon as one considers multiple, interacting regions (e.g., urban areas interacting with agglomerations, and agglomerations interacting with rural areas), important coordination issues occur, including scheduling mismatches, fleet allocations, and congestion peaks. In short, a mobility system composed of self-​optimized mobility systems seems to often operate suboptimally.
 
 In this project, we will investigate the idea of strategic interactions of future mobility stakeholders across heterogeneous regions, such as urban areas, agglomerations, and rural areas, leveraging techniques from network design, optimization, game theory, and policy making.
 
