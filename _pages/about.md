@@ -21,21 +21,18 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a doctoral student in [Professor Frazzoli's group](https://idsc.ethz.ch/research-frazzoli.html) at the Institute of Dynamic Systems and Control (IDSC), ETH Zurich. I work at the interaction of transportation system 🚋 and robotics 🤖. My research focuses on exploring **mobility interactions** and developing **advanced optimization-based and learning-based methods within a game theoretical framework**. **Large-scale real-world datasets** are utilized to demonstrate the algorithms' efficiency and to deliver insights for future mobility systems.
+I'm a doctoral student in [Professor Frazzoli's group](https://idsc.ethz.ch/research-frazzoli.html) at the Institute of Dynamic Systems and Control (IDSC), ETH Zurich. 
+My research explores **strategic interactions** in multi-agent autonomous systems, with the goal of developing control strategies and cooperative mechanisms that redefine what is possible in future mobility. 
 
-🎓Before working at ETH, I obtained the masters' degreein Transport Planning in Delft University of Technology, Netherlands. During my studies, I collaborated closely with [Prof. Bilge Atasoy](https://sites.google.com/view/bilgeatasoy) and [Prof. Panchamy Krishnakumari](https://www.tudelft.nl/citg/over-faculteit/afdelingen/transport-planning/staff/persoonlijke-paginas/dr-ir-p-k-krishnakumari). I worked as a research assistant in  [Prof. Zhuge's group](http://www.lsgi.polyu.edu.hk/people/academic/tony-zhuge/index.asp) at The Hong Kong Polytechnic University for two years.
+I am passionate about leveraging advances in **game theory** and **optimization techniques** to build more intelligent, efficient, and resilient mobility systems. The applications of my work span diverse mobility systems, including railway systems, urban multi-modal transit networks, and autonomous on-demand mobility services.
 
+- **Short Bio**
+🎓 M.Sc. Delft University of Technology, 2023
+🎓 B.Sc. Southeast University, 2020
 
-
-- **For Researchers:**
-  If you share similar research interests, it would be wonderful to connect. 
-
-- **For Students:**
-  If you are seeking thesis opportunities, please feel free to reach out. 
-  We are actively seeking students who are:
-  - Highly motivated and curious about mobility systems.
-  - Eager to learn optimization and machine learning techniques.
-  - Skilled in traffic simulation (familiar with tools like MATSim).
+- **Thesis opportunity**
+ If you are seeking thesis opportunities, please see here for more details:
+[Strategic Interactions of Future Mobility Systems](https://sirop.org/app/c62b4682-d2f1-460b-969c-6b739c36e6ea?_s=TwYdU2RY4vlQor-1&_k=TWKCQtaf6fBs5Xu6&4)
 
 - **Contact**
   - Email: minghe@ethz.ch
