@@ -26,13 +26,13 @@ My research explores **strategic interactions** in multi-agent autonomous system
 
 I am passionate about leveraging advances in **game theory** and **optimization techniques** to build more intelligent, efficient, and resilient mobility systems. The applications of my work span diverse mobility systems, including railway systems, urban multi-modal transit networks, and autonomous on-demand mobility services.
 
-- **Short Bio**
-🎓 M.Sc. Delft University of Technology, 2023
+- **Short Bio**  <br>
+🎓 M.Sc. Delft University of Technology, 2023  <br>
 🎓 B.Sc. Southeast University, 2020
 
-- **Thesis opportunity**
- If you are seeking thesis opportunities, please see here for more details:
+- **Thesis opportunity**<br>
+ If you are seeking thesis opportunities, please see here for more details:<br>
 [Strategic Interactions of Future Mobility Systems](https://sirop.org/app/c62b4682-d2f1-460b-969c-6b739c36e6ea?_s=TwYdU2RY4vlQor-1&_k=TWKCQtaf6fBs5Xu6&4)
 
-- **Contact**
-  - Email: minghe@ethz.ch
+- **Contact** <br>
+ Email: minghe@ethz.ch
