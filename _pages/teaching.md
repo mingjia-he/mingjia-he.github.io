@@ -19,9 +19,10 @@ The thesis opportunities on SiROP: \
 [Strategic Interactions of Future Mobility Systems](https://sirop.org/app/c62b4682-d2f1-460b-969c-6b739c36e6ea?_s=TwYdU2RY4vlQor-1&_k=TWKCQtaf6fBs5Xu6&4)\
  [Design a Storytelling Map for Transport Network Design](https://sirop.org/app/b6aad42e-78d6-4db1-a986-d56dbb6a58a4?_k=9kYsVQgUTD8dSFkD)
 
- On-going Projects:\
+ **On-going Projects:**
+
  Yannik Werner (Master's Thesis)\
- Title: A VCG-based Framework for Multi-Regional Network Design Problem
+ Title: A VCG-based Framework for Multi-Regional Network Design Problem\
  Keywords: Vickery-Clarke-Groves (VCG) mechanism, Hierarchical multi-agent system,  Investment allocation.
 
  Jan Ghadamian (Master's Thesis)\
@@ -33,13 +34,14 @@ The thesis opportunities on SiROP: \
  Title: Enhacing Transportation Network Robustness via Bi-objective Optimization\
  Keywords: Graph theory, Network robustness, Optimization.
  
-Previous Projects:\
+**Previous Projects:**
+
  Léonard Chanfreau (Semester Project)\
  Title: Data-enabled Predictive Control for Vehicle Assignment and Rebalancing Problem\
  Keywords: Data-driven MPC,  Mobility-on-Demand.
 
  Yunus Yazoglu (Bachelor's Thesis)\
- Title: On the Value of Information Sharing in Future Autonomous Mobility-On-Demand Systems
+ Title: On the Value of Information Sharing in Future Autonomous Mobility-On-Demand Systems\
  Keywords: Information Sharing, Vehicle rebalancing, Multi-agent environment.
 
  Colin Jüni (Semester Project)\
