@@ -50,7 +50,7 @@ The thesis opportunities on SiROP: \
  Keywords: Model predictive control, Urban Air Mobility, Transportation disruption.
 
  Timothée Joguet (Semester Project)\
- Co-supervisor: Marc Albert
+ Co-supervisor: Marc Albert\
  Title: Cooperative Strategies for Railway Systems in Multiple Regions\
  Keywords: Game theory, Network design problem.
 
