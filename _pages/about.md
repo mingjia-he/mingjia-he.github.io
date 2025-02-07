@@ -32,7 +32,7 @@ I am passionate about leveraging advances in **game theory** and **optimization 
 
 - **Thesis opportunity**<br>
  If you are seeking thesis opportunities, please see here for more details:<br>
-[Strategic Interactions of Future Mobility Systems](https://sirop.org/app/c62b4682-d2f1-460b-969c-6b739c36e6ea?_s=TwYdU2RY4vlQor-1&_k=TWKCQtaf6fBs5Xu6&4)
+  [Strategic Interactions of Future Mobility Systems](https://sirop.org/app/c62b4682-d2f1-460b-969c-6b739c36e6ea?_s=TwYdU2RY4vlQor-1&_k=TWKCQtaf6fBs5Xu6&4)
 
 - **Contact** <br>
  Email: minghe@ethz.ch
