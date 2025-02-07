@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-Mingjia is mentoring master students on their semester/master thesis projects at ETH Zurich :woman_student::man_student:
+Mingjia is mentoring master students on their semester projects/master's thesis at ETH Zurich :woman_student::man_student:
 
 If you're interested in a thesis opportunity, feel free to get in touch! The projects are multidisciplinary and could cover topics in the following areas:
 * Automotive Engineering
@@ -47,7 +47,7 @@ The thesis opportunities on SiROP: \
  Colin Jüni (Semester Project)\
  Title: Exploring the Complementary
  Role of Urban Air Mobility in Intercity Travel\
- Keywords: Model predictive control, Urban Air Mobility, Transportation disruption.
+ Keywords: Model predictive control, Urban air mobility, Transportation disruption.
 
  Timothée Joguet (Semester Project)\
  Co-supervisor: Marc Albert\
