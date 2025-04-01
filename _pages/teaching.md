@@ -17,7 +17,7 @@ If you're interested in a thesis opportunity, feel free to get in touch! The pro
 
 The thesis opportunities on SiROP: \
 [Strategic Interactions of Future Mobility Systems](https://sirop.org/app/c62b4682-d2f1-460b-969c-6b739c36e6ea?_s=TwYdU2RY4vlQor-1&_k=TWKCQtaf6fBs5Xu6&4)\
- [Design a Storytelling Map for Transport Network Design](https://sirop.org/app/b6aad42e-78d6-4db1-a986-d56dbb6a58a4?_k=9kYsVQgUTD8dSFkD)
+
 
  **On-going Projects:**
 
