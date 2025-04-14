@@ -26,7 +26,7 @@ The thesis opportunities on SiROP: \
  -->
 
 **Completed projects:**
-<div style="line-height: 1.3;">
+
 * Jan Ghadamian, _Hierarchical Decision-making in Layered Urban Mobility Systems_, Master's Thesis, 2025 (with Zhiyu He).<br>
 <!-- 
 <small> Keywords: Multi-leader multi-follower stackelberg game, Model-free optimization.</small>
@@ -69,4 +69,3 @@ Keywords: Game theory, Network design problem.
  Keywords: Network flow optimization, Autonomy-enabling infrastrcutre allocation.
 </small>
 -->
-</div>
