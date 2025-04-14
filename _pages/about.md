@@ -21,7 +21,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a doctoral student in [Professor Frazzoli's group](https://idsc.ethz.ch/research-frazzoli.html) at the Institute of Dynamic Systems and Control (IDSC), ETH Zurich. 
+I'm a doctoral student at the [Institute of Dynamic Systems and Control (IDSC)](https://idsc.ethz.ch/research-frazzoli.html) at ETH Zurich,  under the supervision of Prof. Emilio Frazzoli (ETH) and Prof. Gioele Zardini (MIT).
 My research explores **strategic interactions** in multi-agent autonomous systems, with the goal of developing control strategies and cooperative mechanisms that redefine what is possible in future mobility. 
 
 I am passionate about leveraging advances in **game theory** and **optimization techniques** to build more intelligent, efficient, and resilient mobility systems. The applications of my work span diverse mobility systems, including railway systems, urban multi-modal transit networks, and autonomous on-demand mobility services.
