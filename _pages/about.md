@@ -25,8 +25,8 @@ I'm a doctoral student at the [Institute of Dynamic Systems and Control (IDSC)](
 My research explores **strategic interactions** in multi-agent autonomous systems, with the goal of developing control strategies and cooperative mechanisms that redefine what is possible in future mobility. 
 
 I am passionate about leveraging advances in **game theory** and **optimization techniques** to build more intelligent, efficient, and resilient mobility systems. The applications of my work span diverse mobility systems, including railway systems, urban multi-modal transit networks, and autonomous on-demand mobility services.
-
-
+<br>
+<br>
 - **Short bio**  <br>
 🎓 M.Sc. Delft University of Technology, 2023  <br>
 🎓 B.Sc. Southeast University, 2020
