@@ -27,41 +27,41 @@ The thesis opportunities on SiROP: \
 
 **Completed projects:**
 <div style="line-height: 1.3;">
-* Jan Ghadamian, _Hierarchical Decision-making in Layered Urban Mobility Systems_, Master's Thesis, 2025 (with Zhiyu He).\
+* Jan Ghadamian, _Hierarchical Decision-making in Layered Urban Mobility Systems_, Master's Thesis, 2025 (with Zhiyu He).<br>
 <!-- 
 <small> Keywords: Multi-leader multi-follower stackelberg game, Model-free optimization.</small>
 -->
-* Yunpeng Ye, _Enhacing Transportation Network Robustness via Bi-objective Optimization_,   Semester Project, 2025.\
+* Yunpeng Ye, _Enhacing Transportation Network Robustness via Bi-objective Optimization_,   Semester Project, 2025.<br>
 <!-- 
 <small> 
 Keywords: Graph theory, Network robustness, Optimization.
 </small>
 -->
-* Léonard Chanfreau, _Data-enabled Predictive Control for Vehicle Assignment and Rebalancing Problem_, Master's Thesis, 2025.\
+* Léonard Chanfreau, _Data-enabled Predictive Control for Vehicle Assignment and Rebalancing Problem_, Master's Thesis, 2025.<br>
 <!-- 
 <small> 
 Keywords: Data-driven MPC,  Mobility-on-Demand.
 </small>
 -->
-* Yunus Yazoglu, _On the Value of Information Sharing in Future Autonomous Mobility-On-Demand Systems_, Bachelor's Thesis, 2024.\
+* Yunus Yazoglu, _On the Value of Information Sharing in Future Autonomous Mobility-On-Demand Systems_, Bachelor's Thesis, 2024.<br>
 <!-- 
 <small> 
 Keywords: Information Sharing, Vehicle rebalancing, Multi-agent environment.
 </small>
 -->
-* Colin Jüni, _Exploring the Complementary Role of Urban Air Mobility in Intercity Travel_,Semester Project, 2024.\
+* Colin Jüni, _Exploring the Complementary Role of Urban Air Mobility in Intercity Travel_,Semester Project, 2024.<br>
 <!-- 
 <small> 
 Keywords: Model predictive control, Urban air mobility, Transportation disruption.
 </small>
 -->
-* Timothée Joguet, _Cooperative Strategies for Railway Systems in Multiple Regions_, Semester Project, 2024 (with Marc Albert).\
+* Timothée Joguet, _Cooperative Strategies for Railway Systems in Multiple Regions_, Semester Project, 2024 (with Marc Albert).<br>
 <!-- 
 <small>
 Keywords: Game theory, Network design problem.
 </small>
 -->
-* Giancarlo Cuccorese, _Optimization for Autonomy-enabling Infrastructure in Future Mobility System_, Semester Project, 2024  (with Marc Albert, Gioele Zardini)\
+* Giancarlo Cuccorese, _Optimization for Autonomy-enabling Infrastructure in Future Mobility System_, Semester Project, 2024  (with Marc Albert, Gioele Zardini)<br>
 <!-- 
 <small>
  Co-supervisor: Marc Albert, Gioele Zardini\
