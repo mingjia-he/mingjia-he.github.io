@@ -19,26 +19,25 @@ The thesis opportunities on SiROP: \
 [Strategic Interactions of Future Mobility Systems](https://sirop.org/app/c62b4682-d2f1-460b-969c-6b739c36e6ea?_s=TwYdU2RY4vlQor-1&_k=TWKCQtaf6fBs5Xu6&4)\
 
 
- **On-going Projects:**
-
- Yannik Werner (Master's Thesis)\
- Title: A VCG-based Framework for Multi-Regional Network Design Problem\
- Keywords: Vickery-Clarke-Groves (VCG) mechanism, Hierarchical multi-agent system,  Investment allocation.
-
- Jan Ghadamian (Master's Thesis)\
- Co-supervisor: Zhiyu He\
- Title: Hierarchical Decision-making in Layered Urban Mobility Systems\
- Keywords: Multi-leader multi-follower stackelberg game, Model-free optimization.
-
- Yunpeng Ye (Semester Project)\
- Title: Enhacing Transportation Network Robustness via Bi-objective Optimization\
- Keywords: Graph theory, Network robustness, Optimization.
+ **On-going projects:**
+* Yannik Werner, _A VCG-based Framework for Multi-Regional Network Design Problem_, _Master's Thesis_, 2025.\
+<small> Keywords: Vickery-Clarke-Groves (VCG) mechanism, Hierarchical multi-agent system,  Investment allocation.</small>
  
-**Previous Projects:**
+**Completed projects:**
 
- Léonard Chanfreau (Semester Project)\
- Title: Data-enabled Predictive Control for Vehicle Assignment and Rebalancing Problem\
- Keywords: Data-driven MPC,  Mobility-on-Demand.
+* Jan Ghadamian, _Hierarchical Decision-making in Layered Urban Mobility Systems_, _Master's Thesis_, 2025 (with Zhiyu He).\
+<small> Keywords: Multi-leader multi-follower stackelberg game, Model-free optimization.</small>
+
+* Yunpeng Ye, _ Enhacing Transportation Network Robustness via Bi-objective Optimization_,  _Semester Project_, 2025.\
+<small> 
+Keywords: Graph theory, Network robustness, Optimization.
+</small>
+
+* Léonard Chanfreau,_Data-enabled Predictive Control for Vehicle Assignment and Rebalancing Problem_,_Master's Thesis_, 2025.\
+<small> 
+Keywords: Data-driven MPC,  Mobility-on-Demand.
+</small>
+
 
  Yunus Yazoglu (Bachelor's Thesis)\
  Title: On the Value of Information Sharing in Future Autonomous Mobility-On-Demand Systems\
