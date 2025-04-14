@@ -37,7 +37,7 @@ The thesis opportunities on SiROP: \
 Keywords: Graph theory, Network robustness, Optimization.
 </small>
 -->
-* Léonard Chanfreau, _Data-enabled Predictive Control for Vehicle Assignment and Rebalancing Problem_, Master's Thesis, 2025.<br>
+* Léonard Chanfreau, _Data-enabled Predictive Control for Vehicle Assignment and Rebalancing Problem_, Semester Project, 2025.<br>
 <!-- 
 <small> 
 Keywords: Data-driven MPC,  Mobility-on-Demand.
