@@ -21,7 +21,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a doctoral student at the [Institute of Dynamic Systems and Control (IDSC)](https://idsc.ethz.ch/research-frazzoli.html) at ETH Zurich,  under the supervision of Prof. Emilio Frazzoli (ETH) and Prof. Gioele Zardini (MIT).
+I'm a doctoral student at the [Institute of Dynamic Systems and Control (IDSC)](https://idsc.ethz.ch/research-frazzoli.html) at ETH Zurich,  under the supervision of Prof. [Emilio Frazzoli](https://idsc.ethz.ch/research-frazzoli/people/person-detail.MjI0MDM0.TGlzdC8yNjg5LDQ4ODg4MTE2Mw==.html) (ETH) and Prof. [Gioele Zardini](https://zardini.mit.edu/people/) (MIT).
 My research explores **strategic interactions** in multi-agent autonomous systems, with the goal of developing control strategies and cooperative mechanisms that redefine what is possible in future mobility. 
 
 I am passionate about leveraging advances in **game theory** and **optimization techniques** to build more intelligent, efficient, and resilient mobility systems. The applications of my work span diverse mobility systems, including railway systems, urban multi-modal transit networks, and autonomous on-demand mobility services.
@@ -32,7 +32,7 @@ I am passionate about leveraging advances in **game theory** and **optimization 
 
 - **Thesis opportunity**<br>
  If you are seeking thesis opportunities, please see here for more details:<br>
- :mag_right: [Strategic Interactions of Future Mobility Systems](https://sirop.org/app/c62b4682-d2f1-460b-969c-6b739c36e6ea?_s=TwYdU2RY4vlQor-1&_k=TWKCQtaf6fBs5Xu6&4)\
+ :mag_right: [Strategic Interactions of Future Mobility Systems](https://sirop.org/app/c62b4682-d2f1-460b-969c-6b739c36e6ea?_s=TwYdU2RY4vlQor-1&_k=TWKCQtaf6fBs5Xu6&4)
 
 
 - **Contact** <br>
