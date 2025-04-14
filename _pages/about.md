@@ -26,6 +26,7 @@ My research explores **strategic interactions** in multi-agent autonomous system
 
 I am passionate about leveraging advances in **game theory** and **optimization techniques** to build more intelligent, efficient, and resilient mobility systems. The applications of my work span diverse mobility systems, including railway systems, urban multi-modal transit networks, and autonomous on-demand mobility services.
 
+
 - **Short bio**  <br>
 🎓 M.Sc. Delft University of Technology, 2023  <br>
 🎓 B.Sc. Southeast University, 2020
