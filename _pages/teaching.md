@@ -7,128 +7,105 @@ nav: true
 nav_order: 6
 ---
 
-<details open>
-<summary><h2 style="display: inline;">🎓 Teaching</h2></summary>
-
-<br>
+## 🎓 Teaching
 
 **Course:** _Planning and Decision-Making for Autonomous Robots_  
 **Role:** Teaching Assistant  
-**Institution:** ETH Zurich
+**Institution:** ETH Zurich  
 
 **Course Description:**  
-Planning safe and efficient motions for robots in complex environments, often shared with humans and other robots, is a challenging problem that combines discrete and continuous mathematics, as well as probabilistic, game-theoretic, and learning aspects. 
+Planning safe and efficient motions for robots in complex environments, often shared with humans and other robots, is a challenging problem that combines discrete and continuous mathematics, as well as probabilistic, game-theoretic, and learning aspects.  
 
-This course covers the algorithmic foundations of motion planning, with an eye toward real-world implementation issues.
+This course covers the algorithmic foundations of motion planning, with an eye toward real-world implementation issues.  
 
 **Resources:**  
 📚 [Course Website](https://idsc.ethz.ch/education/lectures/PDM4AR.html)
 
-</details>
+---
 
-<details>
-<summary><h2 style="display: inline;">📝 Editorial Service</h2></summary>
+## 📝 Editorial Service
 
-<br>
+**Peer Review Contributions:**  
+I have served as a peer reviewer for the following journals:  
 
-**Peer Review Services:**
+- **Transportation Research Part D:** Transport and Environment  
+- **Sustainable Cities and Society** (Elsevier)  
+- **Multimodal Transportation: Research and Applications**
 
-I have provided peer review services for the following academic journals:
+---
 
-- **Transportation Research Part D:** Transport and Environment
-- **Sustainable Cities and Society:** Elsevier Journal
-- **Multimodal Transportation:** Research and Applications
+## 👩‍🎓👨‍🎓 Student Supervision
 
-</details>
-
-<details open>
-<summary><h2 style="display: inline;">� Student Supervision</h2></summary>
-
-<br>
-
-I am mentoring master's students on their semester projects and master's theses at ETH Zurich :woman_student::man_student:
+I mentor master's students on semester projects and master's theses at ETH Zurich.  
 
 **Research Areas:**  
-My supervision covers multidisciplinary projects in the following engineering domains:
+My supervision covers multidisciplinary projects in:  
 
-- 🚗 **Automotive Engineering**
-- 🚇 **Transport Engineering** 
-- ⚙️ **Mechanical Engineering**
-- 🏭 **Industrial Engineering**
+- 🚗 Automotive Engineering  
+- 🚇 Transport Engineering  
+- ⚙️ Mechanical Engineering  
+- 🏭 Industrial Engineering  
 
 **Thesis Opportunities:**  
-If you're interested in a thesis opportunity, feel free to reach out!
+If you’re interested in a project, feel free to reach out!  
 
 📋 **SiROP Portal:**  
 [Strategic Interactions of Future Mobility Systems](https://sirop.org/app/c62b4682-d2f1-460b-969c-6b739c36e6ea?_s=TwYdU2RY4vlQor-1&_k=TWKCQtaf6fBs5Xu6&4)
 
 ---
 
-<details>
-<summary><h3 style="display: inline;">🚀 Current Projects</h3></summary>
-
-<br>
-
-_No active projects at the moment._
-
-<!-- Future projects with VCG mechanisms and hierarchical multi-agent systems -->
-
-</details>
-
-<details open>
-<summary><h3 style="display: inline;">✅ Completed Projects</h3></summary>
-
-<br>
-
-### 🎓 Master's Theses (2025)
-
-**Yannik Werner**  
-_A VCG-based Framework for Multi-Regional Network Design Problem_  
-Master's Thesis, 2025
-
-**Jan Ghadamian** _(co-supervised with Zhiyu He)_  
-_Hierarchical Decision-making in Layered Urban Mobility Systems_  
-Master's Thesis, 2025
-<!-- Keywords: Multi-leader multi-follower Stackelberg game, Model-free optimization -->
+<!-- ### 🚀 Current Projects  
+_No active projects at the moment._  
+Future projects with VCG mechanisms and hierarchical multi-agent systems -->
 
 ---
 
-### 📊 Semester Projects (2025)
+### ✅ Completed Projects  
 
-**Yunpeng Ye**  
-_Enhancing Transportation Network Robustness via Bi-objective Optimization_  
-Semester Project, 2025
-<!-- Keywords: Graph theory, Network robustness, Optimization -->
+#### 🎓 Master's Theses  
+- **Yannik Werner**  
+  _A VCG-based Framework for Multi-Regional Network Design Problem_  
+  Master’s Thesis, 2025  
 
-**Léonard Chanfreau**  
-_Data-enabled Predictive Control for Vehicle Assignment and Rebalancing Problem_  
-Semester Project, 2025
-<!-- Keywords: Data-driven MPC, Mobility-on-Demand -->
+- **Jan Ghadamian** _(co-supervised with Zhiyu He)_  
+  _Hierarchical Decision-making in Layered Urban Mobility Systems_  
+  Master’s Thesis, 2025  
+  <!-- Keywords: Multi-leader multi-follower Stackelberg game, Model-free optimization -->
 
 ---
 
-### 🎓 Previous Year Projects (2024)
+#### 📊 Semester Projects
+- **Yunpeng Ye**  
+  _Enhancing Transportation Network Robustness via Bi-objective Optimization_  
+  Semester Project, 2025  
+  <!-- Keywords: Graph theory, Network robustness, Optimization -->
 
-**Yunus Yazoglu**  
-_On the Value of Information Sharing in Future Autonomous Mobility-On-Demand Systems_  
-Bachelor's Thesis, 2024
-<!-- Keywords: Information Sharing, Vehicle rebalancing, Multi-agent environment -->
+- **Léonard Chanfreau**  
+  _Data-enabled Predictive Control for Vehicle Assignment and Rebalancing Problem_  
+  Semester Project, 2025  
+  <!-- Keywords: Data-driven MPC, Mobility-on-Demand -->
 
-**Colin Jüni**  
-_Exploring the Complementary Role of Urban Air Mobility in Intercity Travel_  
-Semester Project, 2024
-<!-- Keywords: Model predictive control, Urban air mobility, Transportation disruption -->
+- **Colin Jüni**  
+  _Exploring the Complementary Role of Urban Air Mobility in Intercity Travel_  
+  Semester Project, 2024  
+  <!-- Keywords: Model predictive control, Urban air mobility, Transportation disruption -->
 
-**Timothée Joguet** _(co-supervised with Marc Albert)_  
-_Cooperative Strategies for Railway Systems in Multiple Regions_  
-Semester Project, 2024
-<!-- Keywords: Game theory, Network design problem -->
+- **Timothée Joguet** _(co-supervised with Marc Albert)_  
+  _Cooperative Strategies for Railway Systems in Multiple Regions_  
+  Semester Project, 2024  
+  <!-- Keywords: Game theory, Network design problem -->
 
-**Giancarlo Cuccorese** _(co-supervised with Marc Albert, Gioele Zardini)_  
-_Optimization for Autonomy-enabling Infrastructure in Future Mobility System_  
-Semester Project, 2024
-<!-- Keywords: Network flow optimization, Autonomy-enabling infrastructure allocation -->
+- **Giancarlo Cuccorese** _(co-supervised with Marc Albert, Gioele Zardini)_  
+  _Optimization for Autonomy-enabling Infrastructure in Future Mobility System_  
+  Semester Project, 2024  
+  <!-- Keywords: Network flow optimization, Autonomy-enabling infrastructure allocation -->
 
-</details>
+---
 
-</details>
+#### 🎓 Bachelor's Theses 
+- **Yunus Yazoglu**  
+  _On the Value of Information Sharing in Future Autonomous Mobility-On-Demand Systems_  
+  Bachelor’s Thesis, 2024  
+  <!-- Keywords: Information Sharing, Vehicle rebalancing, Multi-agent environment -->
+
+
