@@ -25,7 +25,6 @@ This course covers the algorithmic foundations of motion planning, with an eye t
 
 ## 📝 Editorial Service
 
-**Peer Review Contributions:**  
 I have served as a peer reviewer for the following journals:  
 
 - **Transportation Research Part D:** Transport and Environment  
@@ -38,7 +37,6 @@ I have served as a peer reviewer for the following journals:
 
 I mentor master's students on semester projects and master's theses at ETH Zurich.  
 
-**Research Areas:**  
 My supervision covers multidisciplinary projects in:  
 
 - 🚗 Automotive Engineering  
@@ -60,52 +58,43 @@ Future projects with VCG mechanisms and hierarchical multi-agent systems -->
 
 ---
 
-### ✅ Completed Projects  
 
 #### 🎓 Master's Theses  
 - **Yannik Werner**  
-  _A VCG-based Framework for Multi-Regional Network Design Problem_  
-  Master’s Thesis, 2025  
+  _A VCG-based Framework for Multi-Regional Network Design Problem_, 2025  
 
 - **Jan Ghadamian** _(co-supervised with Zhiyu He)_  
-  _Hierarchical Decision-making in Layered Urban Mobility Systems_  
-  Master’s Thesis, 2025  
+  _Hierarchical Decision-making in Layered Urban Mobility Systems_, 2025  
   <!-- Keywords: Multi-leader multi-follower Stackelberg game, Model-free optimization -->
 
 ---
 
 #### 📊 Semester Projects
 - **Yunpeng Ye**  
-  _Enhancing Transportation Network Robustness via Bi-objective Optimization_  
-  Semester Project, 2025  
+  _Enhancing Transportation Network Robustness via Bi-objective Optimization_, 2025  
   <!-- Keywords: Graph theory, Network robustness, Optimization -->
 
 - **Léonard Chanfreau**  
-  _Data-enabled Predictive Control for Vehicle Assignment and Rebalancing Problem_  
-  Semester Project, 2025  
+  _Data-enabled Predictive Control for Vehicle Assignment and Rebalancing Problem_, 2025  
   <!-- Keywords: Data-driven MPC, Mobility-on-Demand -->
 
 - **Colin Jüni**  
-  _Exploring the Complementary Role of Urban Air Mobility in Intercity Travel_  
-  Semester Project, 2024  
+  _Exploring the Complementary Role of Urban Air Mobility in Intercity Travel_, 2024  
   <!-- Keywords: Model predictive control, Urban air mobility, Transportation disruption -->
 
 - **Timothée Joguet** _(co-supervised with Marc Albert)_  
-  _Cooperative Strategies for Railway Systems in Multiple Regions_  
-  Semester Project, 2024  
+  _Cooperative Strategies for Railway Systems in Multiple Regions_, 2024  
   <!-- Keywords: Game theory, Network design problem -->
 
 - **Giancarlo Cuccorese** _(co-supervised with Marc Albert, Gioele Zardini)_  
-  _Optimization for Autonomy-enabling Infrastructure in Future Mobility System_  
-  Semester Project, 2024  
+  _Optimization for Autonomy-enabling Infrastructure in Future Mobility System_, 2024  
   <!-- Keywords: Network flow optimization, Autonomy-enabling infrastructure allocation -->
 
 ---
 
 #### 🎓 Bachelor's Theses 
 - **Yunus Yazoglu**  
-  _On the Value of Information Sharing in Future Autonomous Mobility-On-Demand Systems_  
-  Bachelor’s Thesis, 2024  
+  _On the Value of Information Sharing in Future Autonomous Mobility-On-Demand Systems_, 2024  
   <!-- Keywords: Information Sharing, Vehicle rebalancing, Multi-agent environment -->
 
 
