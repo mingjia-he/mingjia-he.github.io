@@ -7,7 +7,8 @@ nav: true
 nav_order: 6
 ---
 
-## Teaching
+<details open>
+<summary><h2 style="display: inline;">🎓 Teaching</h2></summary>
 
 Mingjia is assisting the course _Planning and Decision-Making for Autonomous Robots_.
 
@@ -16,14 +17,23 @@ Planning safe and efficient motions for robots in complex environments, often sh
 
 For more information on class details and materials, visit: https://idsc.ethz.ch/education/lectures/PDM4AR.html
 
-## Editorial Service
+</details>
+
+<details>
+<summary><h2 style="display: inline;">📝 Editorial Service</h2></summary>
 
 Mingjia has provided peer review services for the following journals:
 - Transportation Research Part D
 - Sustainable Cities and Society
 - Multimodal Transportation
 
-## Supervision
+</details>
+
+<details open>
+<summary><h2 style="display: inline;">👩‍🎓 Supervision</h2></summary>
+
+<details open>
+<summary><h2 style="display: inline;">👩‍🎓 Supervision</h2></summary>
 
 Mingjia is mentoring master's students on their semester projects and master's theses at ETH Zurich :woman_student::man_student:
 
@@ -36,14 +46,19 @@ If you're interested in a thesis opportunity, feel free to reach out! The projec
 Thesis opportunities are available on SiROP:  
 [Strategic Interactions of Future Mobility Systems](https://sirop.org/app/c62b4682-d2f1-460b-969c-6b739c36e6ea?_s=TwYdU2RY4vlQor-1&_k=TWKCQtaf6fBs5Xu6&4)
 
-
-**On-going projects:**
+<details>
+<summary><h3 style="display: inline;">🚀 On-going Projects</h3></summary>
 
 <!-- 
 <small> Keywords: Vickery-Clarke-Groves (VCG) mechanism, Hierarchical multi-agent system,  Investment allocation.</small>
  -->
 
-**Completed projects:**
+_Currently no on-going projects listed._
+
+</details>
+
+<details>
+<summary><h3 style="display: inline;">✅ Completed Projects</h3></summary>
 
 * Yannik Werner, _A VCG-based Framework for Multi-Regional Network Design Problem_, Master's Thesis, 2025.
 
@@ -95,3 +110,7 @@ Keywords: Game theory, Network design problem.
  Keywords: Network flow optimization, Autonomy-enabling infrastructure allocation.
 </small>
 -->
+
+</details>
+
+</details>
