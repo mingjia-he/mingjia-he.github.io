@@ -35,6 +35,10 @@ I am passionate about leveraging advances in **game theory** and **optimization 
  If you are seeking thesis opportunities, please see here for more details:<br>
  :mag_right: [Strategic Interactions of Future Mobility Systems](https://sirop.org/app/c62b4682-d2f1-460b-969c-6b739c36e6ea?_s=TwYdU2RY4vlQor-1&_k=TWKCQtaf6fBs5Xu6&4)
 
+  Are you studying outside ETH and interested in doing a project with us?<br>
+  Explore your opportunities through the [ETH Robotics Student Fellowship](https://robotx.ethz.ch/education/robotics-student-fellowship.html)
+
+
 
 - **Contact** <br>
  Email: minghe@ethz.ch
