@@ -25,11 +25,12 @@ This course covers the algorithmic foundations of motion planning, with an eye t
 
 ## 📝 Editorial Service
 
-I have served as a peer reviewer for the following journals:  
+I have served as a peer reviewer for the following journals and conferences:  
 
 - **Transportation Research Part D:** Transport and Environment  
-- **Sustainable Cities and Society** (Elsevier)  
-- **Multimodal Transportation: Research and Applications**
+- **Sustainable Cities and Society** 
+- **Multimodal Transportation**
+- **IEEE Conference on Decision and Control (CDC)**
 
 ---
 
