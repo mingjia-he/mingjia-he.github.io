@@ -10,8 +10,7 @@ nav_order: 6
 ## 🎓 Teaching
 
 **Course:** _Planning and Decision-Making for Autonomous Robots_  
-**Role:** Teaching Assistant  
-**Institution:** ETH Zurich  
+**Role:** Teaching Assistant   
 
 **Course Description:**  
 Planning safe and efficient motions for robots in complex environments, often shared with humans and other robots, is a challenging problem that combines discrete and continuous mathematics, as well as probabilistic, game-theoretic, and learning aspects.  
@@ -27,6 +26,7 @@ This course covers the algorithmic foundations of motion planning, with an eye t
 
 I have served as a peer reviewer for the following journals and conferences:  
 
+- **The IEEE Transactions on Automatic Control**
 - **Transportation Research Part D:** Transport and Environment  
 - **Sustainable Cities and Society** 
 - **Multimodal Transportation**
