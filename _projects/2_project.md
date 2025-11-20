@@ -18,9 +18,3 @@ In this project, we investigate the foundations of autonomy-enabling infrastruct
 ### Keywords
 **Autonomous Vehicles • AMoD • Autonomy-Enabling Infrastructure • Mobility Systems • Simulation • System and Control**
 
-
-<!-- <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project/insideout.png" title="insideout" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div> -->

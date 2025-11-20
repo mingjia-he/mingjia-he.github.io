@@ -18,12 +18,3 @@ In this project, we will investigate the idea of strategic interactions of futur
 implement by extending existing simulation tools, and real world case studies will be targeted to future Swiss scenarios.
 
 The project on SiROP: [Strategic Interactions of Future Mobility Systems](https://sirop.org/app/c62b4682-d2f1-460b-969c-6b739c36e6ea?_s=TwYdU2RY4vlQor-1&_k=TWKCQtaf6fBs5Xu6&4)
-
-<!-- <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project/interactions.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    The road network in Zurich, Switzerland
-</div> -->
