@@ -11,7 +11,7 @@ Transport networks in neighboring regions are deeply interconnected—interregio
 
 This project explores **how cooperative strategies can enhance regional transport planning**, using **interactive storytelling techniques** to clearly communicate insights to decision-makers and the public.
 
-## What We Are Building
+### What We Are Building
 
 We are developing an **interactive storytelling map** designed to:
 
@@ -22,7 +22,7 @@ We are developing an **interactive storytelling map** designed to:
 
 The final product will be a **user-friendly, web-based application** that combines data, design, and storytelling to support evidence-based decision-making.
 
-## Keywords
+### Keywords
 
 **Storytelling Map • Web-based Application • Graphic User Interface • Transport Network**
 
@@ -35,8 +35,8 @@ Mingjia He
 Doctoral Student, ETH Zurich  
 Email: minghe@ethz.ch
 
-<div class="row justify-content-sm-center">
+<!-- <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project/insideout.png" title="insideout" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project/storytelling.png" title="storytelling" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
+</div> -->
