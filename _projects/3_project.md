@@ -2,8 +2,8 @@
 layout: page
 title: Interactive Storytelling Map
 description: Interactive Storytelling Map for Cooperative Transport Planning
-img: assets/img/project/insideout.png
-importance: 2
+img: assets/img/project/storytelling.png
+importance: 3
 category: work
 
 ---
@@ -27,7 +27,7 @@ The final product will be a **user-friendly, web-based application** that combin
 **Storytelling Map • Web-based Application • Graphic User Interface • Transport Network**
 
 
-**Supervision**  
+**Contact**  
 Dr. Chenyu Zuo
 Research and Teaching Associate, University of Augsburg  
 Email: chenyu.zuo@uni-a.de  
