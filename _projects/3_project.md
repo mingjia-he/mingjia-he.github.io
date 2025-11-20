@@ -13,7 +13,7 @@ This project explores **how cooperative strategies can enhance regional transpor
 
 ## What We Are Building
 
-We are developing an **interactive storytelling map** designed to
+We are developing an **interactive storytelling map** designed to:
 
 - Present the background and challenges of cooperative transport planning
 - Visualize different transportation network configurations
