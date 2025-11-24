@@ -27,11 +27,13 @@ The final product will be a **user-friendly, web-based application** that combin
 **Storytelling Map • Web-based Application • Graphic User Interface • Transport Network**
 
 **Contact**  
-Dr. Chenyu Zuo
+Dr. Chenyu Zuo,
+
 Research and Teaching Associate, University of Augsburg  
 Email: chenyu.zuo@uni-a.de
 
-Mingjia He
+Mingjia He,
+
 Doctoral Student, ETH Zurich  
 Email: minghe@ethz.ch
 
