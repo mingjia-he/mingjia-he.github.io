@@ -1,6 +1,6 @@
 ---
 layout: page
-title: InteractiveMobility
+title: Interactive Mobility
 description: Systemic view on the strategic interactions of future mobility offers
 img: assets/img/project/interactions.png
 importance: 1
