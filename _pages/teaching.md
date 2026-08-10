@@ -10,7 +10,9 @@ nav_order: 6
 ## 🎓 Teaching
 
 **Course:** _Planning and Decision-Making for Autonomous Robots_  
-**Role:** Teaching Assistant   
+**Role:** Teaching Assistant, 2025–2026  
+
+Lectured tutorial sessions for a class of ~200 M.Sc. and Ph.D. students.
 
 **Course Description:**  
 Planning safe and efficient motions for robots in complex environments, often shared with humans and other robots, is a challenging problem that combines discrete and continuous mathematics, as well as probabilistic, game-theoretic, and learning aspects.  
@@ -19,6 +21,13 @@ This course covers the algorithmic foundations of motion planning, with an eye t
 
 **Resources:**  
 📚 [Course Website](https://idsc.ethz.ch/education/lectures/PDM4AR.html)
+
+<br>
+
+**Course:** _Control Systems I_  
+**Role:** Exam Design & Review, 2025–2026  
+
+Contributed exam problems and supported the exam review process for a B.Sc. class of ~400 students.
 
 ---
 
@@ -29,8 +38,11 @@ I have served as a peer reviewer for the following journals and conferences:
 - **The IEEE Transactions on Automatic Control**
 - **Transportation Research Part D:** Transport and Environment  
 - **Sustainable Cities and Society** 
+- **Cities**
 - **Multimodal Transportation**
 - **IEEE Conference on Decision and Control (CDC)**
+- **American Control Conference (ACC)**
+- **IFAC**
 
 ---
 
@@ -71,6 +83,12 @@ Future projects with VCG mechanisms and hierarchical multi-agent systems -->
 ---
 
 #### 📊 Semester Projects
+- **Alida Gassmann**  
+  _Dynamic Cooperation and Network Evolution in Infrastructure Planning_, 2026  
+
+- **Maximilian Haberthür**  
+  _Modeling Competition and Coordination Between Autonomous-on-Demand Service and Public Transportation_, 2026  
+
 - **Yunpeng Ye**  
   _Enhancing Transportation Network Robustness via Bi-objective Optimization_, 2025  
   <!-- Keywords: Graph theory, Network robustness, Optimization -->

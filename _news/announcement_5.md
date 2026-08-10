@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-Happy to share some new progess on [Co-investment with Payoff Sharing Benefit Operators and Users in Network Design](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2409.19409).
+Happy to share some new progess on [Co-investment with Payoff Sharing Benefit Operators and Users in Network Design](https://arxiv.org/abs/2409.19409).
