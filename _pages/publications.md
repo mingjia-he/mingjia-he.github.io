@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Grouped by research theme. Full list on <a href="https://scholar.google.com/citations?user=tf8e59wAAAAJ">Google Scholar</a>.
+description:
 nav: true
 nav_order: 2
 ---

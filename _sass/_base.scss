@@ -1110,3 +1110,21 @@ nav[data-toggle="toc"] {
     li { margin-bottom: 0.35rem; }
   }
 }
+
+// Project cards: plain CSS grid (replaces masonry, which overlapped cards
+// when lazy-loaded images changed height after layout)
+.projects .grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1rem;
+  align-items: stretch;
+
+  .grid-sizer { display: none; }
+  .grid-item {
+    width: auto;
+    margin-bottom: 0;
+
+    > a, .card { height: 100%; }
+    > a { display: block; }
+  }
+}
