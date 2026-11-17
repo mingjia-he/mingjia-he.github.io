@@ -1126,7 +1126,9 @@ nav[data-toggle="toc"] {
 
 // Homepage: expandable award list
 details.more-awards {
-  margin-top: 0.3rem;
+  // pull up toward the award list above, keep a full gap before the next block
+  margin-top: -0.75rem;
+  margin-bottom: 1.25rem;
   summary {
     cursor: pointer;
     color: var(--global-theme-color);
@@ -1141,4 +1143,13 @@ details.more-awards {
   font-size: 0.8rem;
   color: var(--global-text-color-light);
   margin: 0.15rem 0 0;
+}
+
+// Academic Service: student outcomes (same size as text, distinguished by color)
+.student-note {
+  color: var(--global-text-color-light);
+}
+.student-now {
+  color: var(--global-theme-color);
+  font-weight: 500;
 }
