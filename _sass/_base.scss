@@ -1126,16 +1126,17 @@ nav[data-toggle="toc"] {
 
 // Homepage: expandable award list
 details.more-awards {
-  // pull up toward the award list above, keep a full gap before the next block
-  margin-top: -0.75rem;
-  margin-bottom: 1.25rem;
+  // sit directly under the award list (cancel the paragraph's bottom margin),
+  // keep a normal gap before the next block
+  margin-top: -1rem;
+  margin-bottom: 1rem;
   summary {
     cursor: pointer;
     color: var(--global-theme-color);
     font-size: 0.9rem;
-    margin-bottom: 0.2rem;
+    line-height: 1.6;
   }
-  &[open] summary { margin-bottom: 0.3rem; }
+  &[open] summary { margin-bottom: 0.2rem; }
 }
 
 // Project card metadata (period, role, funder)
@@ -1150,6 +1151,8 @@ details.more-awards {
   color: var(--global-text-color-light);
 }
 .student-now {
-  color: var(--global-theme-color);
-  font-weight: 500;
+  color: #444;
+}
+html[data-theme='dark'] .student-now {
+  color: #d0d0d0;
 }
