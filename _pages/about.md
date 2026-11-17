@@ -32,17 +32,21 @@ I am passionate about leveraging advances in **game theory** and **optimization 
 🎓 M.Sc. Delft University of Technology, 2023, *cum laude*  <br>
 🎓 B.Sc. Southeast University, 2020
 
+- **Selected awards**  <br>
+🌟 Rising Star in Civil and Environmental Engineering, MIT, 2026  <br>
+🏆 Outstanding Student Paper Prize, IEEE CSS Technical Committee on Smart Cities, 2026  <br>
+🏆 Best Academic Paper Award, Transportation Research Board (TRB) Annual Meeting, 2024
+
+  <details class="more-awards">
+  <summary>Show all awards</summary>
+  🏅 Best Student Paper Award Finalist, American Control Conference (ACC), 2025<br>
+  🏅 Merit Award for Smart City Technology Innovation, Global Smart Cities Summit &amp; ICUI, Hong Kong, 2025<br>
+  🎖️ Holland Scholarship, TU Delft, 2021<br>
+  🎖️ Merit Student &amp; JSTI Scholarship, Southeast University, 2020
+  </details>
+
 - **In the media**  <br>
 📰 MIT News: [“Sometimes, when competitors collaborate, everybody wins”](https://news.mit.edu/2025/sometimes-when-competitors-collaborate-everybody-wins-0227), 2025
-
-- **Thesis opportunity**<br>
- If you are seeking thesis opportunities, please see here for more details:<br>
- :mag_right: [Strategic Interactions of Future Mobility Systems](https://sirop.org/app/c62b4682-d2f1-460b-969c-6b739c36e6ea?_s=TwYdU2RY4vlQor-1&_k=TWKCQtaf6fBs5Xu6&4)
-
-  Are you studying outside ETH and interested in doing a project with us?<br>
-  Explore your opportunities through the [ETH Robotics Student Fellowship](https://robotx.ethz.ch/education/robotics-student-fellowship.html)
-
-
 
 - **Contact** <br>
  Email: minghe@ethz.ch

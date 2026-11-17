@@ -49,7 +49,10 @@ _Exam Coordinator_
 - **Leqi Wang** _(co-supervised with C. Zuo)_: interactive story map for cooperative network planning, 2025  
   <small>Now: Ph.D. candidate, TU Delft.</small>
 
-**Thesis opportunities:** interested in a project? See [Strategic Interactions of Future Mobility Systems](https://sirop.org/app/c62b4682-d2f1-460b-969c-6b739c36e6ea?_s=TwYdU2RY4vlQor-1&_k=TWKCQtaf6fBs5Xu6&4) on SiROP, or reach out by email.
+#### Thesis Opportunities
+Looking for a thesis or semester project? See [Strategic Interactions of Future Mobility Systems](https://sirop.org/app/c62b4682-d2f1-460b-969c-6b739c36e6ea?_s=TwYdU2RY4vlQor-1&_k=TWKCQtaf6fBs5Xu6&4) on SiROP, or reach out by email.
+
+Studying outside ETH and interested in a project with us? Explore your opportunities through the [ETH Robotics Student Fellowship](https://robotx.ethz.ch/education/robotics-student-fellowship.html).
 
 ---
 
