@@ -26,8 +26,6 @@ My research explores **strategic interactions** in multi-agent autonomous system
 
 I am passionate about leveraging advances in **game theory** and **optimization techniques** to build more intelligent, efficient, and resilient mobility systems. The applications of my work span diverse mobility systems, including railway systems, urban multi-modal transit networks, and autonomous on-demand mobility services.
 
-🔎 **I am on the job market for postdoctoral positions starting in 2027.** Feel free to reach out!
-
 - **Short bio**  <br>
 🎓 Ph.D. ETH Zürich (expected Aug. 2027)  <br>
 🎓 M.Sc. Delft University of Technology, 2023, *cum laude*  <br>
