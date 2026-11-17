@@ -1104,11 +1104,6 @@ nav[data-toggle="toc"] {
     font-size: 0.95rem;
     margin-bottom: 1rem;
   }
-  ul.earlier-work {
-    font-size: 0.9rem;
-    padding-left: 1.2rem;
-    li { margin-bottom: 0.35rem; }
-  }
 }
 
 // Project cards: plain CSS grid (replaces masonry, which overlapped cards
@@ -1127,23 +1122,4 @@ nav[data-toggle="toc"] {
     > a, .card { height: 100%; }
     > a { display: block; }
   }
-}
-
-// Topic sections with hand-written paper lists (title / venue / labels per paper)
-.publications .topic-papers {
-  margin-bottom: 1rem;
-
-  ul.path-papers {
-    padding-left: 1.1rem;
-    margin-bottom: 0;
-    li { margin-bottom: 0.9rem; }
-  }
-  .path-title { font-weight: 600; }
-  li:not(.first-author) .path-title { font-weight: 500; }
-  .path-venue {
-    color: var(--global-text-color-light);
-    font-style: italic;
-    font-size: 0.92rem;
-  }
-  .pub-labels { margin: 0.25rem 0 0; }
 }
