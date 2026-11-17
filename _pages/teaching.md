@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Academic Service
-description: Teaching, student supervision, talks, and reviewing.
+description: Teaching, student supervision, and reviewing.
 nav: true
 nav_order: 6
 ---
@@ -50,37 +50,6 @@ _Exam Coordinator_
   <small>Now: Ph.D. candidate, TU Delft.</small>
 
 **Thesis opportunities:** interested in a project? See [Strategic Interactions of Future Mobility Systems](https://sirop.org/app/c62b4682-d2f1-460b-969c-6b739c36e6ea?_s=TwYdU2RY4vlQor-1&_k=TWKCQtaf6fBs5Xu6&4) on SiROP, or reach out by email.
-
----
-
-## 🎤 Invited Talks
-
-- MIT-CEE Rising Stars Workshop, Cambridge, USA, 2026
-- Invited tutorial, _“Strategic Interactions in Multi-Regional Mobility Systems,”_ IEEE ITSC, IEEE CSS TC on Smart Cities (presented by G. Zardini), 2026
-- IEA Wind Task 43 (Wind Energy Digitalisation), Working Groups 2 & 3 Joint Meeting, 2026
-- Laboratory for Information & Decision Systems (LIDS), MIT, Cambridge, USA, 2025
-- School of Engineering and Applied Sciences (SEAS), Harvard University, Cambridge, USA, 2025
-- IDSC & RobotX Seminar, ETH Zürich, Switzerland, 2025
-- Annual Symposium, Center for Sustainable Future Mobility, ETH Zürich, Switzerland, 2023, 2024
-- Adaptive Transportation and Logistics Group, TU Delft, Netherlands, 2023
-
-## 🗣️ Conference Presentations
-
-- IFAC World Congress, invited session _“Trustworthy Decision-Making and Control for Transportation Systems,”_ Busan, Korea, 2026
-- INFORMS TSL Conference, session _“Traffic, Demand & Network Equilibrium,”_ Boston, USA, 2026
-- European Control Conference, session _“Game-Theoretic Methods in Control I,”_ Reykjavík, Iceland, 2026
-- IEEE Conference on Decision and Control, Rio de Janeiro, Brazil, 2025
-- American Control Conference, Student Best Paper Award Session, Denver, USA, 2025
-- International Conference on Urban Informatics, Hong Kong, 2025
-- European Association for Research in Transportation (hEART), Munich, Germany, 2025
-- Swiss Transport Research Conference (STRC), Ascona, Switzerland, 2025
-- Transportation Research Board Annual Meeting, Washington DC, USA, 2018, 2019, 2024
-- IEEE Conference on Intelligent Transportation Systems, Bilbao, Spain, 2023
-
-**Posters:**
-NCCR Automation Annual Retreat, Theory Pathfinder session, 2026 ·
-CSFM Annual Symposium, ETH Zürich, 2025, 2026 ·
-ACC Workshop on Mixed Autonomy in Transportation (invited poster), Denver, 2025
 
 ---
 
