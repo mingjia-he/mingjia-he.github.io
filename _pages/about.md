@@ -21,32 +21,28 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a doctoral student at the [Institute for Dynamic Systems and Control (IDSC)](https://idsc.ethz.ch/research-frazzoli.html) at ETH Zürich,  under the supervision of Prof. [Emilio Frazzoli](https://idsc.ethz.ch/research-frazzoli/people/person-detail.MjI0MDM0.TGlzdC8yNjg5LDQ4ODg4MTE2Mw==.html) (ETH) and Prof. [Gioele Zardini](https://zardini.mit.edu/people/) (MIT).
-My research explores **strategic interactions** in multi-agent autonomous systems, with the goal of developing control strategies and cooperative mechanisms that redefine what is possible in future mobility. 
+I am a doctoral candidate at the [Institute for Dynamic Systems and Control (IDSC)](https://idsc.ethz.ch/research-frazzoli.html) at ETH Zürich, supervised by Prof. [Emilio Frazzoli](https://idsc.ethz.ch/research-frazzoli/people/person-detail.MjI0MDM0.TGlzdC8yNjg5LDQ4ODg4MTE2Mw==.html) (ETH) and Prof. [Gioele Zardini](https://zardini.mit.edu/people/) (MIT).
+My research examines how **self-interested decision-makers** in mobility networks interact, and how to steer these interactions toward **efficient and fair outcomes** without overriding individual autonomy. To do this, I combine **game theory, mechanism design, optimization, and feedback control** to design mechanisms and control strategies that align individual incentives with system-level goals.
 
-I am passionate about leveraging advances in **game theory** and **optimization techniques** to build more intelligent, efficient, and resilient mobility systems. The applications of my work span diverse mobility systems, including railway systems, urban multi-modal transit networks, and autonomous on-demand mobility services.
-<br>
-<br>
-- **Short bio**  <br>
-🎓 Ph.D. ETH Zürich (expected Aug. 2027)  <br>
-🎓 M.Sc. Delft University of Technology, 2023, *cum laude*  <br>
+Recent applications include coordinating cross-border railway investment in Europe, designing integration subsidies between public transport and taxi operators in Zürich, and developing frameworks for fair congestion tolling and regional network co-investment.
+
+**Short bio**  
+🎓 Ph.D. ETH Zürich (expected Aug. 2027)  
+🎓 M.Sc. Delft University of Technology, 2023, *cum laude*  
 🎓 B.Sc. Southeast University, 2020
 
-- **Selected awards**  <br>
-🌟 Rising Star in Civil and Environmental Engineering, MIT, 2026  <br>
-🏆 Outstanding Student Paper Prize, IEEE CSS Technical Committee on Smart Cities, 2026  <br>
+**Selected awards**  
+🌟 Rising Star in Civil and Environmental Engineering, MIT, 2026  
+🏆 Outstanding Student Paper Prize, IEEE CSS Technical Committee on Smart Cities, 2026  
 🏆 Best Academic Paper Award, Transportation Research Board (TRB) Annual Meeting, 2024
 
-  <details class="more-awards">
-  <summary>Show all awards</summary>
-  🏅 Best Student Paper Award Finalist, American Control Conference (ACC), 2025<br>
-  🏅 Merit Award for Smart City Technology Innovation, Global Smart Cities Summit &amp; ICUI, Hong Kong, 2025<br>
-  🎖️ Holland Scholarship, TU Delft, 2021<br>
-  🎖️ Merit Student &amp; JSTI Scholarship, Southeast University, 2020
-  </details>
+<details class="more-awards">
+<summary>Show all awards</summary>
+🏅 Best Student Paper Award Finalist, American Control Conference (ACC), 2025<br>
+🏅 Merit Award for Smart City Technology Innovation, Global Smart Cities Summit &amp; ICUI, Hong Kong, 2025<br>
+🎖️ Holland Scholarship, TU Delft, 2021<br>
+🎖️ Merit Student &amp; JSTI Scholarship, Southeast University, 2020
+</details>
 
-- **In the media**  <br>
+**In the media**  
 📰 MIT News: [“Sometimes, when competitors collaborate, everybody wins”](https://news.mit.edu/2025/sometimes-when-competitors-collaborate-everybody-wins-0227), 2025
-
-- **Contact** <br>
- Email: minghe@ethz.ch

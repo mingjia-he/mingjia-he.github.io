@@ -4,4 +4,4 @@ date: 2025-11-14 00:00:00-0000
 inline: true
 related_posts: false
 ---
-Check out our latest work, [MobilityGame](https://arxiv.org/pdf/2511.08734), where we show how to leverage online feedback optimization techniques to guide real-life interactive mobility systems. 
+Our new paper [Hierarchical Strategic Decision-Making in Layered Mobility Systems](https://arxiv.org/abs/2511.08734) is now available on arXiv. It shows how online feedback optimization can steer interactive mobility systems.

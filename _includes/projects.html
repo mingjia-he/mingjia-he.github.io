@@ -16,6 +16,12 @@
         <div class="card-body">
           <h2 class="card-title text-uppercase">{{ project.title }}</h2>
           <p class="card-text">{{ project.description }}</p>
+          {%- if project.period or project.role %}
+          <p class="card-meta">{{ project.period }}{% if project.period and project.role %} · {% endif %}{{ project.role }}</p>
+          {%- endif %}
+          {%- if project.funder or project.partners %}
+          <p class="card-meta">{% if project.funder %}{{ project.funder }}{% endif %}{% if project.funder and project.partners %} · {% endif %}{% if project.partners %}with {{ project.partners }}{% endif %}</p>
+          {%- endif %}
           <div class="row ml-1 mr-1 p-0">
             {%- if project.github -%}
             <div class="github-icon">

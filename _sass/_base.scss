@@ -1135,3 +1135,10 @@ details.more-awards {
   }
   &[open] summary { margin-bottom: 0.3rem; }
 }
+
+// Project card metadata (period, role, funder)
+.projects .card .card-meta {
+  font-size: 0.8rem;
+  color: var(--global-text-color-light);
+  margin: 0.15rem 0 0;
+}

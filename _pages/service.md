@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /service/
 title: Academic Service
 description: Teaching, student supervision, and reviewing.
 nav: true
@@ -28,10 +28,10 @@ _Exam Coordinator_
 - **Yannik Werner**: _A VCG-based Framework for the Multi-Regional Network Design Problem_, 2025  
   <small>Co-author, IEEE CDC 2025 (🏆 Outstanding Student Paper Prize). Now: Researcher, WSL Institute for Snow and Avalanche Research SLF.</small>
 - **Jan Ghadamian** _(with Zhiyu He)_: _Hierarchical Decision-Making in Layered Urban Mobility Systems_, 2025  
-  <small>Co-author, ECC 2026. Now: Ph.D. candidate, ETH Zürich.</small>
+  <small>Co-author, ECC 2026 and the TCNS preprint (under review). Now: Ph.D. candidate, ETH Zürich.</small>
 
 #### Master's Semester Projects
-- **Tim Rothechar**: _Value–Response Decoupling in Self-Supervised Amortized Optimization_, 2026 (ongoing)
+- **Tim Rothacher**: _Value–Response Decoupling in Self-Supervised Amortized Optimization_, 2026 (ongoing)
 - **Alida Gassmann**: _Dynamic Cooperation and Network Evolution in Infrastructure Planning_, 2026
 - **Maximilian Haberthür**: _Modeling Competition and Coordination Between Autonomous Mobility-on-Demand Services and Public Transportation_, 2026
 - **Yunpeng Ye**: _Enhancing Transportation Network Robustness via Bi-Objective Optimization_, 2025
@@ -58,6 +58,10 @@ Studying outside ETH and interested in a project with us? Explore your opportuni
 
 ## 📝 Reviewing
 
-**Journals:** IEEE Transactions on Automatic Control · Transportation Research Part D: Transport and Environment · Transportation · Sustainable Cities and Society · Cities · Multimodal Transportation · Scientific Reports · Cost Effectiveness and Resource Allocation · City and Environment Interactions
+**Control and optimization:** IEEE Transactions on Automatic Control · IEEE Conference on Decision and Control (CDC) · American Control Conference (ACC) · European Control Conference (ECC) · IFAC World Congress
 
-**Conferences:** IEEE Conference on Decision and Control (CDC) · American Control Conference (ACC) · European Control Conference (ECC) · IFAC World Congress
+**Transportation:** Transportation Research Part D: Transport and Environment · Transportation · Multimodal Transportation
+
+**Urban studies and sustainability:** Sustainable Cities and Society · Cities · City and Environment Interactions
+
+**Multidisciplinary:** Scientific Reports · Cost Effectiveness and Resource Allocation

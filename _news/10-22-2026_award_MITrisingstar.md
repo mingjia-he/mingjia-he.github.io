@@ -12,4 +12,4 @@ gallery:
   - src: /assets/img/news/mit-rising-star/55616304285_562392b7ab_k.jpg
   - src: /assets/img/news/mit-rising-star/55616305810_8da19cfcf8_c.jpg
 ---
-I was selected as a **Rising Star in Civil and Environmental Engineering** by MIT CEE 🌟, and attended the Rising Stars Workshop at MIT on October 22–23 🇺🇸.
+I was selected as a **Rising Star in Civil and Environmental Engineering** by MIT CEE 🌟 and attended the Rising Stars Workshop at MIT on October 22–23.
