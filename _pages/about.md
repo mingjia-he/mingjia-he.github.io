@@ -21,10 +21,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a doctoral candidate at the [Institute for Dynamic Systems and Control (IDSC)](https://idsc.ethz.ch/research-frazzoli.html) at ETH Zürich, supervised by Prof. [Emilio Frazzoli](https://idsc.ethz.ch/research-frazzoli/people/person-detail.MjI0MDM0.TGlzdC8yNjg5LDQ4ODg4MTE2Mw==.html) (ETH) and Prof. [Gioele Zardini](https://zardini.mit.edu/people/) (MIT).
-My research examines how **self-interested decision-makers** in mobility networks interact, and how to steer these interactions toward **efficient and fair outcomes** without overriding individual autonomy. To do this, I combine **game theory, mechanism design, optimization, and feedback control** to design mechanisms and control strategies that align individual incentives with system-level goals.
+I am a doctoral candidate at the [Institute for Dynamic Systems and Control (IDSC)](https://idsc.ethz.ch/research-frazzoli.html), ETH Zürich, advised by Prof. [Emilio Frazzoli](https://idsc.ethz.ch/research-frazzoli/people/person-detail.MjI0MDM0.TGlzdC8yNjg5LDQ4ODg4MTE2Mw==.html) (ETH) and Prof. [Gioele Zardini](https://zardini.mit.edu/people/) (MIT).
 
-Recent applications include coordinating cross-border railway investment in Europe, designing integration subsidies between public transport and taxi operators in Zürich, and developing frameworks for fair congestion tolling and regional network co-investment.
+My research shifts the question from optimizing a system to designing the rules under which self-interested parties reach efficient and fair outcomes on their own. In mobility networks, I study how public authorities, operators, and travelers interact, and how their interactions can be steered without overriding their autonomy. Combining **game theory, mechanism design, and feedback control**, I develop co-investment and payoff-sharing mechanisms under which independent regional operators gain from cooperating, and incentive-compatible mechanisms that let a central funder select projects when regions hold private valuations. I also design model-free feedback controllers that let authorities guide competing operators and travelers from observed outcomes alone.
+
+I have applied these methods to railway investment across European regions and to municipal policy for public transport and taxi operators in Zürich. These questions extend beyond mobility to energy grids, communication networks, and other infrastructure that many parties share but no one fully controls.
 
 **Short bio**  
 🎓 Ph.D. ETH Zürich (expected Aug. 2027)  
