@@ -18,11 +18,54 @@
                     {%- else -%}
                       <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
                     {%- endif %}
+                    {%- if item.gallery %}
+                      <a href="#" class="news-photos-link" data-toggle="modal" data-target="#news-gallery-{{ forloop.index }}"><i class="fa-solid fa-images"></i> Photos</a>
+                    {%- endif %}
                   </td>
                 </tr>
               {%- endfor %}
               </table>
             </div>
+
+            {%- comment -%} Photo gallery pop-ups (Bootstrap modal + carousel) {%- endcomment -%}
+            {% for item in news limit: news_limit %}
+              {%- if item.gallery %}
+              {%- assign gid = 'news-gallery-' | append: forloop.index -%}
+              <div class="modal fade news-gallery-modal" id="{{ gid }}" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+                  <div class="modal-content">
+                    <button type="button" class="close news-gallery-close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <div id="{{ gid }}-carousel" class="carousel slide" data-ride="false" data-interval="false">
+                      <div class="carousel-inner">
+                        {%- for photo in item.gallery %}
+                        <div class="carousel-item{% if forloop.first %} active{% endif %}">
+                          <img src="{{ photo.src | relative_url }}" class="d-block w-100" alt="{{ photo.caption | default: 'photo' }}" loading="lazy">
+                          {%- if photo.caption and photo.caption != "" %}
+                          <p class="news-gallery-caption">{{ photo.caption }}</p>
+                          {%- endif %}
+                        </div>
+                        {%- endfor %}
+                      </div>
+                      {%- if item.gallery.size > 1 %}
+                      <a class="carousel-control-prev" href="#{{ gid }}-carousel" role="button" data-slide="prev"><span class="carousel-control-prev-icon" aria-hidden="true"></span><span class="sr-only">Previous</span></a>
+                      <a class="carousel-control-next" href="#{{ gid }}-carousel" role="button" data-slide="next"><span class="carousel-control-next-icon" aria-hidden="true"></span><span class="sr-only">Next</span></a>
+                      {%- endif %}
+                    </div>
+                  </div>
+                </div>
+              </div>
+              {%- endif %}
+            {%- endfor %}
+
+            <style>
+              .news-photos-link { margin-left: .4em; font-size: .9em; white-space: nowrap; }
+              .news-gallery-modal .modal-content { background: #111; border: none; border-radius: 8px; overflow: hidden; }
+              .news-gallery-modal .carousel-item img { max-height: 70vh; object-fit: contain; background: #111; }
+              .news-gallery-caption { color: #eee; text-align: center; font-size: .9rem; margin: .5rem 1rem; }
+              .news-gallery-close { position: absolute; top: .3rem; right: .7rem; z-index: 10; color: #fff; opacity: .85; text-shadow: none; font-size: 2rem; }
+              .news-gallery-close:hover { color: #fff; opacity: 1; }
+              .news-gallery-modal .carousel-control-prev, .news-gallery-modal .carousel-control-next { width: 10%; }
+            </style>
           {%- else -%}
             <p>No news so far...</p>
           {%- endif %}
