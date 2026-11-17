@@ -9,15 +9,21 @@ nav_order: 6
 
 ## 🎓 Teaching
 
+<div class="course" markdown="1">
 **[Planning and Decision-Making for Autonomous Robots](https://idsc.ethz.ch/education/lectures/PDM4AR.html)** (151-0325-00L, M.Sc./Ph.D.), ETH Zürich, 2025–2027  
-_Co-Lead Teaching Assistant_  
+_Co-Lead Teaching Assistant_
+
 - Designed and lectured weekly recitation sessions for ~200 students.
 - Recruited, hired, and managed the teaching-assistant team.
 - In 2026, led the redesign of project-based exercises and assessment to incorporate AI-assisted programming, and the development of an open online course platform combining lectures with coding exercises.
+</div>
 
+<div class="course" markdown="1">
 **Control Systems I** (151-0591-00L, B.Sc.), ETH Zürich, 2024–2026  
-_Exam Coordinator_  
+_Exam Coordinator_
+
 - Contributed exam material and coordinated the exam-review process for ~400 students.
+</div>
 
 ---
 

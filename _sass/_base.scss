@@ -1148,11 +1148,19 @@ details.more-awards {
 
 // Academic Service: student outcomes (same size as text, distinguished by color)
 .student-note {
-  color: var(--global-text-color-light);
+  color: var(--global-text-color);
 }
 .student-now {
-  color: #444;
+  color: #1f4e79;   // dark blue
 }
 html[data-theme='dark'] .student-now {
-  color: #d0d0d0;
+  color: #8db8e8;   // lighter blue so it stays readable on the dark background
+}
+
+// Academic Service: course blocks (title + role tight, bullets close below, gap between courses)
+.course {
+  margin-bottom: 1.4rem;
+  p { margin-bottom: 0.3rem; }
+  ul { margin-bottom: 0; }
+  li { margin-bottom: 0.15rem; }
 }

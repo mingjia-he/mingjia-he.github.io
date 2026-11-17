@@ -32,14 +32,14 @@ Recent applications include coordinating cross-border railway investment in Euro
 🎓 B.Sc. Southeast University, 2020
 
 **Selected awards**  
-🌟 Rising Star in Civil and Environmental Engineering, MIT, 2026  
+🏆 Rising Star in Civil and Environmental Engineering, MIT, 2026  
 🏆 Outstanding Student Paper Prize, IEEE CSS Technical Committee on Smart Cities, 2026  
 🏆 Best Academic Paper Award, Transportation Research Board (TRB) Annual Meeting, 2024
 
 <details class="more-awards">
 <summary>Show all awards</summary>
-🏅 Best Student Paper Award Finalist, American Control Conference (ACC), 2025<br>
-🏅 Merit Award for Smart City Technology Innovation, Global Smart Cities Summit &amp; ICUI, Hong Kong, 2025<br>
+🏆 Best Student Paper Award Finalist, American Control Conference (ACC), 2025<br>
+🏆 Merit Award for Smart City Technology Innovation, Global Smart Cities Summit &amp; ICUI, Hong Kong, 2025<br>
 🎖️ Holland Scholarship, TU Delft, 2021<br>
 🎖️ Merit Student &amp; JSTI Scholarship, Southeast University, 2020
 </details>
