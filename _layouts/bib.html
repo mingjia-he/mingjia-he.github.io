@@ -136,6 +136,15 @@
         <div class="periodical">
           {{ entry.note | strip }}
         </div>
+        {%- if entry.award %}
+        <div class="pub-award"><i class="fa-solid fa-trophy"></i> {{ entry.award }}</div>
+        {%- endif %}
+        {%- if entry.labels %}
+        <div class="pub-labels">
+          {%- assign pub_labels = entry.labels | split: ',' -%}
+          {%- for label in pub_labels %}<span class="pub-label">{{ label | strip }}</span>{% endfor -%}
+        </div>
+        {%- endif %}
 
           <!-- Links/Buttons -->
           <div class="links">

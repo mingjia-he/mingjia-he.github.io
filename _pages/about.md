@@ -25,11 +25,24 @@ I'm a doctoral student at the [Institute of Dynamic Systems and Control (IDSC)](
 My research explores **strategic interactions** in multi-agent autonomous systems, with the goal of developing control strategies and cooperative mechanisms that redefine what is possible in future mobility. 
 
 I am passionate about leveraging advances in **game theory** and **optimization techniques** to build more intelligent, efficient, and resilient mobility systems. The applications of my work span diverse mobility systems, including railway systems, urban multi-modal transit networks, and autonomous on-demand mobility services.
-<br>
-<br>
+
+🔎 **I am on the job market for postdoctoral positions starting in 2027.** Feel free to reach out!
+
 - **Short bio**  <br>
-🎓 M.Sc. Delft University of Technology, 2023  <br>
+🎓 Ph.D. ETH Zürich (expected Aug. 2027)  <br>
+🎓 M.Sc. Delft University of Technology, 2023, *cum laude*  <br>
 🎓 B.Sc. Southeast University, 2020
+
+- **Awards & honors**  <br>
+🌟 Rising Star in Civil and Environmental Engineering, MIT, 2026  <br>
+🏆 Outstanding Student Paper Prize, IEEE CSS Technical Committee on Smart Cities, 2026  <br>
+🏅 Best Student Paper Award Finalist, American Control Conference (ACC), 2025  <br>
+🏅 Merit Award for Smart City Technology Innovation, Global Smart Cities Summit & ICUI, Hong Kong, 2025  <br>
+🏆 Best Academic Paper Award, Transportation Research Board (TRB) Annual Meeting, 2024  <br>
+🎖️ Holland Scholarship, TU Delft, 2021
+
+- **In the media**  <br>
+📰 MIT News: [“Sometimes, when competitors collaborate, everybody wins”](https://news.mit.edu/2025/sometimes-when-competitors-collaborate-everybody-wins-0227), 2025
 
 - **Thesis opportunity**<br>
  If you are seeking thesis opportunities, please see here for more details:<br>

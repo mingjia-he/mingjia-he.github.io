@@ -3,19 +3,117 @@
 
 % @string{aps = {American Physical Society,}}
 
+% ============================================================================
+% topic = hierarchical | cooperation | earlier
+%   hierarchical: Hierarchical decision-making & feedback control in mobility systems
+%   cooperation:  Cooperation & mechanism design in network design
+%   earlier:      pre-PhD work (listed briefly on the publications page, not rendered from here)
+% labels = comma-separated keyword chips shown under the entry
+% award  = shown with a star under the entry
+% ============================================================================
+
+@article{He2026TCNS,
+   bibtex_show={true},
+   abbr={Preprint},
+   topic={hierarchical},
+   labels={Stackelberg games, Feedback optimization, Multimodal networks},
+   author = {He, M. and He, Z. and Ghadamian, J. and Dörfler, F. and Frazzoli, E. and Zardini, G.},
+   title = {Hierarchical Interactions in Mobility Networks: A Model-Free Feedback Approach},
+   journal = {arXiv preprint arXiv:2611.18313},
+   note = {Under review at IEEE Transactions on Control of Network Systems},
+   year = {2026},
+   arxiv = {2611.18313},
+   abstract = {Urban mobility systems are large-scale networked systems whose performance emerges from hierarchically coupled decisions of public authorities, competing mobility operators, and travelers. Existing approaches to policy design either collapse one of these levels or assume that the authority can model and differentiate through the equilibrium responses of operators and travelers. In this paper, we model policy design as a tri-level game on a multimodal network, in which a municipality sets taxes, licenses, and integration subsidies, a public transport and a taxi operator compete on prices and service supply, and heterogeneous travelers reach a stochastic user equilibrium. We prove that the traveler equilibrium is unique and continuously differentiable in the operator strategies, that the variational inequality characterizing operator equilibria admits a solution for every policy, and that the resulting tri-level game admits a Stackelberg equilibrium. Building on this structure, we design a model-free hierarchical controller in which the municipality and the operators update their decisions from zeroth-order evaluations of observed equilibrium outcomes. On the Zurich multimodal network, operator equilibria computed from different initializations differ by a median of 0.3\% in the municipal objective. On a grid of 3,125 policies, only those that subsidize transfers between public transport and taxis benefit both operators, and 24 of them also lower travel costs without degrading the municipal objective. Finally, the controller matches the best policies of three black-box optimizers and terminates at the most consistent policies across runs.},
+}
+
+@inproceedings{He2026ECC,
+   bibtex_show={true},
+   abbr={ECC},
+   topic={hierarchical},
+   labels={Stackelberg games, Feedback optimization, Policy design},
+   author = {He, M. and He, Z. and Ghadamian, J. and Dörfler, F. and Frazzoli, E. and Zardini, G.},
+   title = {Hierarchical Strategic Decision-Making in Layered Mobility Systems},
+   booktitle = {European Control Conference (ECC)},
+   year = {2026},
+   arxiv = {2511.08734},
+   abstract = {Mobility systems are complex socio-technical environments influenced by multiple stakeholders with hierarchically interdependent decisions, rendering effective control and policy design inherently challenging. We bridge hierarchical game-theoretic modeling with online feedback optimization by casting urban mobility as a tri-level Stackelberg game (travelers, operators, municipality) closed in a feedback loop. The municipality iteratively updates taxes, subsidies, and operational constraints using a projected two-point (gradient-free) scheme, while lower levels respond through equilibrium computations (Frank-Wolfe for traveler equilibrium; operator best responses). This model-free pipeline enforces constraints, accommodates heterogeneous users and modes, and scales to higher-dimensional policy vectors without differentiating through equilibrium maps. On a real multimodal network for Zurich, Switzerland, our method attains substantially better municipal objectives than Bayesian optimization and Genetic algorithms, and identifies integration incentives that increase multimodal usage while improving both operator objectives. The results show that feedback-based regulation can steer competition toward cooperative outcomes and deliver tangible welfare gains in complex, data-rich mobility ecosystems.},
+}
+
+@inproceedings{Shilov2026IFAC,
+   bibtex_show={true},
+   abbr={IFAC},
+   topic={hierarchical},
+   labels={Price of anarchy, Social choice, Traffic control},
+   author = {Shilov, I. and He, M. and Nax, H. H. and Frazzoli, E. and Zardini, G. and Bolognani, S.},
+   title = {Invariant Price of Anarchy: A Metric for Welfarist Traffic Control},
+   booktitle = {23rd IFAC World Congress},
+   year = {2026},
+   arxiv = {2512.05843},
+   abstract = {The Price of Anarchy (PoA) is a standard metric for quantifying inefficiency in socio-technical systems, widely used to guide policies like traffic tolling. Conventional PoA analysis relies on exact numerical costs. However, in many settings, costs represent agents' preferences and may be defined only up to possibly arbitrary scaling and shifting, representing informational and modeling ambiguities. We observe that while such transformations preserve equilibrium and optimal outcomes, they change the PoA value. To resolve this issue, we rely on results from Social Choice Theory and define the Invariant PoA. By connecting admissible transformations to degrees of comparability of agents' costs, we derive the specific social welfare functions which ensure that efficiency evaluations do not depend on arbitrary rescalings or translations of individual costs. Case studies on a toy example and the Zurich network demonstrate that identical tolling strategies can lead to substantially different efficiency estimates depending on the assumed comparability. Our framework thus demonstrates that explicit axiomatic foundations are necessary in order to define efficiency metrics and to appropriately guide policy in large-scale infrastructure design robustly and effectively.},
+}
+
+@article{He2026TNSE,
+   bibtex_show={true},
+   abbr={Preprint},
+   topic={cooperation},
+   labels={Cooperative game theory, Payoff sharing, Network design},
+   author = {He, M. and Censi, A. and Zhang, R. and Frazzoli, E. and Zardini, G.},
+   title = {Co-Investment with Payoff-Sharing Mechanism for Cooperative Decision-Making in Network Design Games},
+   journal = {Preprint},
+   note = {Under review at IEEE Transactions on Network Science and Engineering},
+   year = {2026},
+}
+
+@inproceedings{He2025CDC,
+   bibtex_show={true},
+   abbr={CDC},
+   topic={cooperation},
+   labels={Mechanism design, VCG, Railway networks},
+   award={Outstanding Student Paper Prize 2026, IEEE CSS Technical Committee on Smart Cities},
+   author = {He, M. and Werner, Y. and Censi, A. and Frazzoli, E. and Zardini, G.},
+   title = {Iterative VCG-based Mechanism Fosters Cooperation in Multi-Regional Network Design},
+   booktitle = {64th IEEE Conference on Decision and Control (CDC)},
+   pages = {2118--2125},
+   year = {2025},
+   arxiv = {2503.23255},
+   html = {https://ieeexplore.ieee.org/abstract/document/11312897},
+   abstract = {Transportation network design often involves multiple stakeholders with diverse priorities. We consider a system with a hierarchical multi-agent structure, featuring self-optimized subnetwork operators at the lower level and a central organization at the upper level. Independent regional planning can lead to inefficiencies due to the lack of coordination, hindering interregional travel and cross-border infrastructure development, while centralized methods may struggle to align local interests and can be impractical to implement. To support decision making for such a system, we introduce an iterative VCG-based mechanism for multi-regional network design that fosters cooperation among subnetwork operators. By leveraging the Vickery-Clarke-Groves (VCG) mechanism, the framework determines collective investment decisions and the necessary payments from both operators and the central organization to achieve efficient outcomes. A case study on the European Railway System validates the effectiveness of the proposed method, demonstrating significant improvements in overall network performance through enhanced cross-region cooperation.},
+}
+
 @inproceedings{He2025,
    bibtex_show={true},
-   author = {He M. and Censi A. and Frazzoli E. and Zardini G.},
+   abbr={ACC},
+   topic={cooperation},
+   labels={Cooperative game theory, Payoff sharing, Network design},
+   award={Best Student Paper Award Finalist, ACC 2025},
+   pages = {1131--1138},
+   author = {He, M. and Censi, A. and Frazzoli, E. and Zardini, G.},
    title = {Co-investment with Payoff Sharing Benefit Operators and Users in Network Design},
-   booktitle = {Proceedings of the 2025 American Control Conference (ACC)},
+   booktitle = {American Control Conference (ACC)},
    year = {2025},
    html = {https://arxiv.org/pdf/2409.19409},
    abstract = {Network-based complex systems are inherently interconnected, with the design and performance of subnetworks being interdependent. However, the decisions of self-interested operators may lead to suboptimal outcomes for users. In this paper, we consider the question of what cooperative mechanisms can benefit both operators and users simultaneously. We address this question in a game theoretical setting, integrating both non-cooperative and cooperative game theory. During the non-cooperative stage, subnetwork decision-makers strategically design their local networks. In the cooperative stage, the co-investment mechanism and the payoff-sharing mechanism are developed to enlarge collective benefits and fairly distribute them. A case study of the Sioux Falls network is conducted to demonstrate the efficiency of the proposed framework. The impact of this interactive network design on environmental sustainability, social welfare, and economic efficiency is evaluated, along with an examination of scenarios involving regions with heterogeneous characteristics.},
    preview = {graph.png}
 }
 
+@article{Zuo2025ICA,
+   bibtex_show={true},
+   abbr={ICA},
+   topic={cooperation},
+   labels={Story maps, Cooperative network planning},
+   author = {Zuo, C. and He, M.},
+   title = {Designing Storytelling Maps for Cross-Regional Transport Network Planning},
+   journal = {Abstracts of the International Cartographic Association},
+   volume = {10},
+   pages = {326},
+   year = {2025},
+   doi = {10.5194/ica-abs-10-326-2025},
+   html = {https://doi.org/10.5194/ica-abs-10-326-2025},
+}
+
 @article{He2025STPM,
    bibtex_show={true},
+   topic={earlier},
    author = {He M.and Zhang Y. and Atasoy B.},
    doi = {10.1177/03611981241310399},
    html ={https://doi.org/10.1177/03611981241310399},
@@ -29,6 +127,7 @@
 
 @article{He2023,
    bibtex_show={true},
+   topic={earlier},
    author = {He M. and Wang S. and Zhuge C.},
    doi = {10.1016/j.trd.2023.103835},
    html ={https://www.sciencedirect.com/science/article/pii/S1361920923002328},
@@ -43,6 +142,7 @@
 
 @article{He2023itsc,
    bibtex_show={true},
+   topic={earlier},
    author = {He M. and Krishnakumari P. and Luo D. and Chen J.},
    pdf = {https://arxiv.org/pdf/2311.12700.pdf},
    journal =  {2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)},
@@ -53,6 +153,7 @@
 }
 @article{He2022,
    bibtex_show={true},
+   topic={earlier},
    author = {He M. and Ma X. and Wang J. and Zhu M.},
    doi = {10.1016/j.scs.2022.103967},
    html = {https://www.sciencedirect.com/science/article/pii/S2210670722002876},
@@ -66,6 +167,7 @@
 }
 @article{He2021,
    bibtex_show={true},
+   topic={earlier},
    author = {He M. and Ma X. and Jin Y.},
    doi = {10.1109/ACCESS.2021.3063881},
    html= {https://ieeexplore.ieee.org/document/9369349},
@@ -80,6 +182,7 @@
 
 @article{Ma2018,
    bibtex_show={true},
+   topic={earlier},
    author = {Ma X. and Jin Y. and He M.},
    doi = {10.3390/info9110289},
    html={https://www.mdpi.com/2078-2489/9/11/289},
@@ -94,8 +197,9 @@
 
 }
 
-@article{Ma2018,
+@article{Ma2018Sust,
    bibtex_show={true},
+   topic={earlier},
    author = {Ma X. and Ji Y. and Jin Y. and Wang J. and He M.},
    doi = {10.3390/su10113949},
    issn = {20711050},
