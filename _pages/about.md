@@ -33,14 +33,6 @@ I am passionate about leveraging advances in **game theory** and **optimization 
 🎓 M.Sc. Delft University of Technology, 2023, *cum laude*  <br>
 🎓 B.Sc. Southeast University, 2020
 
-- **Awards & honors**  <br>
-🌟 Rising Star in Civil and Environmental Engineering, MIT, 2026  <br>
-🏆 Outstanding Student Paper Prize, IEEE CSS Technical Committee on Smart Cities, 2026  <br>
-🏅 Best Student Paper Award Finalist, American Control Conference (ACC), 2025  <br>
-🏅 Merit Award for Smart City Technology Innovation, Global Smart Cities Summit & ICUI, Hong Kong, 2025  <br>
-🏆 Best Academic Paper Award, Transportation Research Board (TRB) Annual Meeting, 2024  <br>
-🎖️ Holland Scholarship, TU Delft, 2021
-
 - **In the media**  <br>
 📰 MIT News: [“Sometimes, when competitors collaborate, everybody wins”](https://news.mit.edu/2025/sometimes-when-competitors-collaborate-everybody-wins-0227), 2025
 
