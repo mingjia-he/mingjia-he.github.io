@@ -19,6 +19,10 @@ nav_order: 2
 <p class="pub-topic-desc">Mechanisms that let self-interested regions and operators co-invest in shared infrastructure, and share the gains fairly.</p>
 {% bibliography -f {{ site.scholar.bibliography }} --group_by none --query @*[topic=cooperation]* %}
 
+<h2 class="pub-topic">Welfarist Control Design</h2>
+<p class="pub-topic-desc">Controlling multi-agent systems means trading off the costs of different participants, yet these costs can rarely be compared on a common scale. Drawing on social choice theory, we build efficiency metrics and control objectives that remain meaningful under limited interpersonal comparability, and bring fairness and equity into traffic control.</p>
+{% bibliography -f {{ site.scholar.bibliography }} --group_by none --query @*[topic=welfarist]* %}
+
 <h2 class="pub-topic">Earlier Work</h2>
 <p class="pub-topic-desc">Before my PhD: electric-mobility infrastructure, shared mobility and travel behavior, and freight transport.</p>
 <ul class="earlier-work">
